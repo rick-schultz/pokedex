@@ -16,5 +16,12 @@
 
 
 <style lang="scss" scoped>
-
+header {
+  align-items: center;
+  background-color: #263238;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  min-height: 3rem;
+}
 </style>

@@ -11,5 +11,12 @@
 </template>
 
 <style lang="scss" scoped>
-
+footer {
+  align-items: center;
+  background-color: #263238;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  min-height: 3rem;
+}
 </style>
